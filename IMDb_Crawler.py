@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 import pandas as pd
 #import json
 
-BASEDIR = Path('__file__').parent
+BASEDIR = Path(__file__).parent
 driver_path = Path.joinpath(BASEDIR, 'driver/chromedriver')
 results_path = Path.joinpath(BASEDIR, 'results/')
 
