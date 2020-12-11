@@ -1,4 +1,4 @@
-IMDb-crawler developed in PYTHON-V3.8.6 by 'Saeed Shirazi'
+IMDb-crawler developed in PYTHON-V3.8.6 by 'Saeed Shirazi' at December 11, 2020
 
 
 This crawler take a query as string from you and do search in IMDb, crawle the datas and give you top 5 results and finally save them in results directory as a json file.
